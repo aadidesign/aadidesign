@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aaditya-suryawanshi-2241b2249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya-suryawanshi-2241b2249" height="30" width="40" /></a>
-<a href="https://fb.com/aaditya suryawanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaditya suryawanshi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aaditya-suryawanshi-2241b2249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya-suryawanshi-2241b2249" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/UkksjabrxaeJhjmr/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaditya suryawanshi" height="30" width="40" /></a>
 <a href="https://instagram.com/aadi.designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadi.designer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aadi designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aadi designer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aadi_designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aadi_designer" height="30" width="40" /></a>
