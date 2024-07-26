@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **aadityasuryawanshi44@gmail.com**
 
+- Software developer. As a computer engineering student, seeking a position where I can use my knowledge. Looking always for Challenges to push the limits of what can be achieved. Using every opportunity to learn. Helping out as much as I can.
+@aadidesign
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aaditya-suryawanshi-2241b2249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya-suryawanshi-2241b2249" height="30" width="40" /></a>
